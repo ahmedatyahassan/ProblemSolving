@@ -11,8 +11,10 @@ Leetcode splits its questions by category (Arrays, Trees, LinkedLists etc.) and 
 
 for more details just go to (https://www.quora.com/What-is-LeetCode-And-how-does-it-work)
 
-### How to reach to specific problem?
-just choose problem's ID such as **1689** thats point to problem "Partitioning Into Minimum Number Of Deci-Binary Numbers"
 
 ### File structure
 judge name - Difficulty - Topic - Problme's ID
+
+
+### How to reach to specific problem?
+just choose problem's ID such as **1689** thats point to problem "Partitioning Into Minimum Number Of Deci-Binary Numbers"
