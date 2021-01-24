@@ -11,5 +11,12 @@ In an algorithm design there is no one 'silver bullet' that is a cure for all co
 
 A greedy algorithm, as the name suggests, always makes the choice that seems to be the best at that moment. This means that it makes a locally-optimal choice in the hope that this choice will lead to a globally-optimal solution.
 
-for more just visit (https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms)
+Take a look at this blog **(https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms)**
+
+
+## How is dynamic programming different from greedy algorithms?
+Take a look at this answer **(http://stackoverflow.com/q/13713572/812912)**
+
+
+
 
