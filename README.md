@@ -18,3 +18,7 @@ judge name - Difficulty - Topic - Problme's ID
 
 ### How to reach to specific problem?
 just choose problem's ID such as **1689** thats point to problem "Partitioning Into Minimum Number Of Deci-Binary Numbers"
+
+
+### TIPS and impotrant blogs
+Take a look at this file (Basics of Greedy Algorithms)
