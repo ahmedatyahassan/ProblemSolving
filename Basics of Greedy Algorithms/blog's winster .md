@@ -14,6 +14,11 @@ A greedy algorithm, as the name suggests, always makes the choice that seems to 
 Take a look at this blog **(https://www.hackerearth.com/practice/algorithms/greedy/basics-of-greedy-algorithms)**
 
 
+### How to prove greedy algorithm is correct ?
+
+Take a look at this answer **(https://cs.stackexchange.com/questions/59964)**
+
+
 ### How is dynamic programming different from greedy algorithms?
 Take a look at this answer **(http://stackoverflow.com/q/13713572/812912)**
 
