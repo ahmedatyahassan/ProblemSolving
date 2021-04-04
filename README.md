@@ -1,6 +1,6 @@
 # LeetCode-With-Winster
 
-In this Repo i will solve differant problem with differant topic such as "greedy", "Dynamic programming", "graph", ..... etc in LeetCode
+In this Repo i will solve different problem with different topic such as "greedy", "Dynamic programming", "graph", ..... etc in LeetCode
 
 
 ### What is LeetCode? And how does it work?
