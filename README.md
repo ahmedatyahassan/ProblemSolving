@@ -1,4 +1,4 @@
-# LeetCode Algo & DS Problem
+# LeetCode Algo & DS Problems
 
 In this Repo i will solve different problem with different topic such as "greedy", "Dynamic programming", "graph", ..... etc in LeetCode
 
