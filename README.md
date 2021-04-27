@@ -1,4 +1,4 @@
-# LeetCode-With-Winster
+# LeetCode Algo & DS Problem
 
 In this Repo i will solve different problem with different topic such as "greedy", "Dynamic programming", "graph", ..... etc in LeetCode
 
