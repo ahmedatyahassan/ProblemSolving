@@ -20,11 +20,6 @@ void init() {
 	cin.sync_with_stdio(0);
 }
 
-bool sgn(int x, int y)
-{
-	return ((x > 0 && y > 0) || (x < 0 && y < 0));
-}
-
 void solve()
 {
 	int n; cin >> n;
