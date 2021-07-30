@@ -3,5 +3,9 @@ This is an unofficial contest to practice DP (Dynamic Programming). We selected 
 
 **created by Errichto**
 
-[Educational DP Contest](https://atcoder.jp/contests/dp/tasks/)
+CONTEST
+- [Frog 1](https://atcoder.jp/contests/dp/tasks/dp_a)
+- [Frog 2](https://atcoder.jp/contests/dp/tasks/dp_b)
+- [Knapsack 1](https://atcoder.jp/contests/dp/tasks/dp_d)
+
 
