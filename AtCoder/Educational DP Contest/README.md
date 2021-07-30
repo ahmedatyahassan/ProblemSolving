@@ -3,3 +3,5 @@ This is an unofficial contest to practice DP (Dynamic Programming). We selected 
 
 **created by Errichto**
 
+[Educational DP Contest](https://atcoder.jp/contests/dp/tasks/)
+
